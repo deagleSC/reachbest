@@ -48,7 +48,7 @@ const MainContent = ({data}: {data: Array<any>}) => {
     <div className="px-5 mt-20">
     <div className="flex flex-col sm:flex-row items-center justify-evenly">
     <div className="w-full p-5 sm:p-0 m-5">
-    <Image src={"/books.jpg"} alt={"books"} width={"200"} height={"200"} className="rounded-lg w-full"/>
+    <img src={"/books.jpg"} alt={"books"} width={"200"} height={"200"} className="rounded-lg w-full"/>
     </div>
 
     <div className="flex flex-col w-full m-5 sm:m-0 w-full">
