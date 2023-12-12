@@ -2,7 +2,6 @@
 
 import React, { Fragment, useState } from "react";
 import Image from "next/image";
-import { query } from "express";
 import axios from "axios";
 import Select from "./Select";
 import Card from "./Card";
