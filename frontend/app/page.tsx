@@ -36,7 +36,7 @@ const Home = () => {
   return (
     <main>
       <Navbar />
-      <MainContent data={mainContentData} />
+      <MainContent data={mainContentData}  />
     </main>
   )
 }
